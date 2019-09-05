@@ -1,0 +1,2 @@
+git remote add origin git@github.com:manilsllw/Ali-Otif.git
+git push -u origin master
